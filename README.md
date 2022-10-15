@@ -1,6 +1,6 @@
 # Pyramid
 
-基于Chaquopy写了个插件，集成到TVBoxOSC项目中，就可以愉快的使用Python来写爬虫逻辑了
+用于支持TvBox及其衍生app使用python爬虫作为数据源，[源码地址](https://github.com/UndCover/Pyramid)
 
 ## 免责声明
 
@@ -39,24 +39,7 @@
 
 ### [Python爬虫写法参考](https://github.com/UndCover/PyramidStore/blob/main/spider.md)
 
-## FAQ
-### 0. APP版本
-使用TVBoxOSC最后一版代码，无其他添加
+### [源码地址](https://github.com/UndCover/Pyramid)
 
-### 1. 为什么会有这个东西
-个人觉得python调试和维护起来会比较方便一点
-
-### 2.为什么现在放出来
-Chaquopy在7月24日解除了license限制，然后就想放出来试试
-
-### 3.为什么apk会这么大
-apk打包了armeabi-v7a和x86_64两个版本的依赖文件，所以比普通的版本大16m左右。后续会做优化
-
-### 4.会不会开源
-未来代码将会出现在[这里](https://github.com/UndCover/Pyramid)
-
-### 5.目前还有哪些问题
-现缺失解析器等功能
-
-## 问题反馈
+### 问题反馈
 问题请反馈到[telegram](https://t.me/+A3SLQRmPVi9kOThl)
